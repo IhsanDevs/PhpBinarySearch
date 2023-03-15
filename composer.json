@@ -1,0 +1,28 @@
+{
+    "name": "ihsandevs/php-binary-search",
+    "type": "library",
+    "description": "A PHP implementation of the Binary Search algorithm",
+    "keywords": [
+        "binary-search",
+        "search",
+        "algorithm"
+    ],
+    "homepage": "https://github.com/IhsanDevs/PhpBinarySearch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ihsan Devs",
+            "email": "contact@ihsandevs.com",
+            "homepage": "https://ihsandevs.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "IhsanDevs\\PhpBinarySearch\\": "src/"
+        }
+    }
+}
