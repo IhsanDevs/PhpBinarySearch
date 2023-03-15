@@ -7,7 +7,7 @@ Binary Search is a search algorithm that finds the position of a target value wi
 ## Installation
 
 ```bash
-composer require IhsanDevs\PhpBinarySearch
+composer require ihsandevs/php-binary-search
 ```
 
 ## Usage
