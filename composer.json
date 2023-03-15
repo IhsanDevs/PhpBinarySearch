@@ -1,6 +1,7 @@
 {
     "name": "ihsandevs/php-binary-search",
     "type": "library",
+    "minimum-stability": "stable",
     "description": "A PHP implementation of the Binary Search algorithm",
     "keywords": [
         "binary-search",
